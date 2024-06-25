@@ -1,13 +1,17 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Supply and Demand of EV Charging stations in relation to EV Population in Washington State
+date: 2023-11-26
+external_link: https://github.com/Sabnam-Pandit/EV-Charging-Stations-in-WA-state
+project_website: https://sites.google.com/sdsu.edu/ev-chargingstations/about?authuser=0
+
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Python
+  - Machine Learning
+  - Regression Model
+  - Tableau
+  - Arc GIS
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Supply and Demand of EV Charging stations in relation to EV Population in Washington State. We have also taken Income and Education data of Washington state in consideration for dependent variable to Charging station which is a dependent variable.
 
 <!--more-->
