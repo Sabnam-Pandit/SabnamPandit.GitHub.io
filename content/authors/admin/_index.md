@@ -2,8 +2,6 @@
 # Display name
 title: Sabnam
 
-
-
 # Full name (for SEO)
 first_name: Sabnam
 last_name: Pandit
@@ -67,7 +65,6 @@ education:
     date_end: 2021-04-01
     summary: |
       GPA: 3.73/4.0
-
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
