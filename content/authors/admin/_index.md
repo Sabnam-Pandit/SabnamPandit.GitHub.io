@@ -84,7 +84,7 @@ work:
     company_url: 'https://www.moco.com.np/'
     company_logo: ''
     date_start: 2021-07-01
-    date_end: '2022-06-01'
+    date_end: 2022-06-01
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
