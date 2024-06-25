@@ -5,8 +5,7 @@ external_link: https://github.com/pandas-dev/pandas
 tags:
   - Computer Vision Algorithm
   - Natural Language Processing
-Members:
-@ManishaMatta @Sabnam-Pandit @chebrolu6405 @anurima-saha
+Members: @ManishaMatta @Sabnam-Pandit @chebrolu6405 @anurima-saha
   
 ---
 
