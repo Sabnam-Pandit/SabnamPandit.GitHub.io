@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sabnam
+title: Sabnam 
 
 # Full name (for SEO)
 first_name: Sabnam
@@ -24,25 +24,26 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'spandit6542@sdsu.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+   # url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+   # url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Sabnam-Pandit
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/sabnam-pandit/
+ # - icon: academicons/google-scholar
+   # url: https://scholar.google.com/
+  # - icon: academicons/orcid
+   # url: https://orcid.org/
 
 interests:
   - Machine Learning 
-  - Deep Learning
+  - Deep Learning (Large Language Model)
   - SQL
+  - Data Visualization
 
 education:
   - area: Masters in Big Data Analytics
@@ -50,6 +51,14 @@ education:
     date_start: 2023-08-21
     date_end: 2025-05-01
     GPA: 4.0/4.0
+    Courses included:
+      - Enterprise Data Management
+      - Data Visualization
+      - Machine Learning Engineering
+      - Advanced Special Topics in Big Data Analytics
+      - Python Scripting
+      - Big Data Science and Analytics Platforms
+      
   
   - area: Masters in Business Administration-Information Technology
     institution: Tribhuvan University
@@ -58,18 +67,39 @@ education:
     summary: |
       GPA: 3.73/4.0
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Finance
+      - Marketing
+      - Accounts
+      - Strategic Management
+      - Managerial Economics
+      - Statistics
+      - Human Resource Management
+      - Organizational Management
+      - Business Intelligence
+      - Database Management
+      - Emerging Technology
+      - Cyber Security
+      - Research
+      - Big Data Analytics
+      - E and M Commerce
+        
   - area: Bachelor in Computer Engineering
     institution: Visvesvaraya Technological University
     date_start: 2014-08-09
     date_end: 2018-06-01
     summary: |
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - C, C++, Java
+      - Object Oriented Programming
+      - Computer Networks
+      - Cyber Security
+      - Data Structure
+      - Operating Systems
+      - Database Management
+      - Maths
+      - Microprocessor
+      - Logic Design
+      - UNIX
 work:
   - position: Quality Assurance Engineer
     company_name: FocusOne Payment Solutions
@@ -79,9 +109,11 @@ work:
     date_end: 2022-06-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - API Testing
+      - Web Portal Testing
+      - Documenting test scripts
+      - Reporting
+      - Project Coordination with third parties involved
   - position: Graduate Research Assistant
     company_name: San Diego State University
     company_url: ''
@@ -90,27 +122,36 @@ work:
     date_end: 
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Anomaly Detection in medical data
+      - Interpreting the machine learning model using large language model
+      - Fact Extraction using large language model from medical data
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
-        icon: circle-stack
+        # percent: 40
+        icon: database
+      - name: Python
+        description: ''
+        # percent: 80
+        icon: code-bracket
+      - name: Machine Learning
+        description: ''
+        # percent: 40
+        icon: project-diagram 
+      - name: Data Science
+        description: ''
+        # percent: 100
+        icon: chart-bar
+      - name: Tableau
+        description: ''
+        # percent: 100
+        icon: table
+      
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -119,21 +160,25 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Travelling
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: suitcase-rolling
+      - name: Working out
         description: ''
         percent: 80
-        icon: camera
+        icon: dumbbell
+      - name: Dancing
+        description: ''
+        percent: 80
+        icon:  music
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Nepali
+    percent: 100
+  - name: Hindi
     percent: 25
 
 # Awards.
@@ -170,4 +215,8 @@ awards:
 
 ## About Me
 
-Sabis a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a graduate student in the Big Data Analytics program at San Diego State University. Before this, I completed my Bachelor's degree in Computer Science, followed by an MBA in IT. My professional journey includes nearly a year of valuable experience working as a QA Engineer in the Fintech industry.
+
+My passion for problem-solving has been a constant throughout my academic journey and my brief stint in the corporate world. This passion has led me to develop a keen interest in data and the data-driven landscape, where I recognize the pivotal role data plays in today's world. I consider myself a naturally curious individual with a solid foundation in technical skills. I am well-versed in the latest technology trends, possess strong programming skills, and have knowledge in areas such as Machine Learning and Deep Learning.
+
+My aspiration is to build a career in data science, where I can leverage my skills and curiosity to uncover valuable insights from data. I am excited about the opportunities to contribute to this field and make a meaningful impact through data-driven solutions.
