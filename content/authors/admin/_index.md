@@ -59,7 +59,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Masters in Business Administration - Information Technology
+  - area: Masters in Business Administration-Information Technology
     institution:Tribhuvan University
     date_start: 2019-03-01
     date_end: 2021-04-01
