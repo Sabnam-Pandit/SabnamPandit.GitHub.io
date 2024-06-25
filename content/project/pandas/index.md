@@ -6,7 +6,7 @@ tags:
   - Computer Vision Algorithm
   - Natural Language Processing
     
-Members:
+members:
   - @ManishaMatta
   - @Sabnam-Pandit
   - @chebrolu6405
