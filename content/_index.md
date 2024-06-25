@@ -30,16 +30,16 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-         I'm working as a graduate  research assistant in the  DataSciene Lab Under Dr. Hajar Homoyouni. My research utilizes medical data  
- for anomaly detection ,fact extraction, similarity metric, interpretability of machine learning models by employing large language models.  
-  Please reach out to collaborate 😃
+        I'm working as a graduate research assistant in the Data Science Lab under Dr. Hajar Homayouni. My research utilizes medical data for anomaly detection, fact extraction, similarity metric, and interpretability of machine learning models by employing large language models. Please reach out to collaborate 😃
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
@@ -51,6 +51,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     content:
       # title: Recent Publications
@@ -61,9 +62,11 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
   - block: collection
     id: talks
     content:
+      # Add content for talks block here
      #  title: Recent & Upcoming Talks
       filters:
         folders:
