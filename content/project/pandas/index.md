@@ -1,7 +1,7 @@
 ---
 title: Image-Driven Captioning and Custom Music Recommendations
 date: 2023-11-03
-external_link: https://github.com/Sabnam-Pandit/CaptionMusicGenerator
+external_link: https://github.com/pandas-dev/pandas
 tags:
   - Computer Vision Algorithm
   - Natural Language Processing
