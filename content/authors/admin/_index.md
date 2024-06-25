@@ -66,6 +66,7 @@ education:
     date_end: 2021-04-01
     summary: |
       GPA: 3.73/4.0
+    
       Courses included:
       - Finance
       - Marketing
@@ -101,6 +102,18 @@ education:
       - Logic Design
       - UNIX
 work:
+  - position: Graduate Research Assistant
+    company_name: San Diego State University
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-01-01
+    date_end: 
+    summary: |
+      Responsibilities include:
+      - Anomaly Detection in medical data
+      - Interpreting the machine learning model using large language model
+      - Fact Extraction using large language model from medical data
+
   - position: Quality Assurance Engineer
     company_name: FocusOne Payment Solutions
     company_url: 'https://www.moco.com.np/'
@@ -114,17 +127,6 @@ work:
       - Documenting test scripts
       - Reporting
       - Project Coordination with third parties involved
-  - position: Graduate Research Assistant
-    company_name: San Diego State University
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-01-01
-    date_end: 
-    summary: |
-      Responsibilities include:
-      - Anomaly Detection in medical data
-      - Interpreting the machine learning model using large language model
-      - Fact Extraction using large language model from medical data
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -179,7 +181,7 @@ languages:
   - name: Nepali
     percent: 100
   - name: Hindi
-    percent: 25
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
