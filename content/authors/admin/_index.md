@@ -52,7 +52,7 @@ education:
     GPA: 4.0/4.0
   
   - area: Masters in Business Administration-Information Technology
-    institution:Tribhuvan University
+    institution: Tribhuvan University
     date_start: 2019-03-01
     date_end: 2021-04-01
     summary: |
