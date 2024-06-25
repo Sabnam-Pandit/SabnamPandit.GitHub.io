@@ -7,7 +7,7 @@ first_name: Sabnam
 last_name: Pandit
 
 # Status emoji
-status:
+status:''
   
 
 # Is this the primary user of the site?
