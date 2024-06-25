@@ -13,6 +13,6 @@ members:
   
 ---
 
-We aim to develop an Image Captioning and Music Recommendation System which accepts images as input and produces platform suitable captions and music as an output. 
+We aim to develop an Image Captioning and Music Recommendation System which accepts images as input and produces platform suitable captions and music as an output.
 
 <!--more-->
