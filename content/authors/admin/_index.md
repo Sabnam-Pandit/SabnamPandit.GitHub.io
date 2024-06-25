@@ -50,12 +50,13 @@ interests:
 
 education:
   - area: Masters in Big Data Analytics
-    institution: Stanford University
+    institution: San Diego State University
     date_start: 2023-08-21
     date_end: 2025-05-01
     GPA: 4.0/4.0
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with 
+    the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
