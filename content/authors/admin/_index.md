@@ -50,8 +50,9 @@ education:
     institution: San Diego State University
     date_start: 2023-08-21
     date_end: 2025-05-01
-    GPA: 4.0/4.0
-    Courses included:
+    summary: |
+      GPA: 4.0/4.0
+      Courses included:
       - Enterprise Data Management
       - Data Visualization
       - Machine Learning Engineering
