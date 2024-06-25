@@ -6,10 +6,10 @@ tags:
   - Computer Vision Algorithm
   - Natural Language Processing
 members:
-  - @ManishaMatta
-  - @Sabnam-Pandit
-  - @chebrolu6405
-  - @anurima-saha
+  - ManishaMatta
+  - Sabnam-Pandit
+  - chebrolu6405
+  - anurima-saha
   
 ---
 
