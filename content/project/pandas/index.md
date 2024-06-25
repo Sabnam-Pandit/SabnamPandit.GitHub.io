@@ -5,7 +5,6 @@ external_link: https://github.com/Sabnam-Pandit/CaptionMusicGenerator
 tags:
   - Computer Vision Algorithm
   - Natural Language Processing
-    
 members:
   - @ManishaMatta
   - @Sabnam-Pandit
