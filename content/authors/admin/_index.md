@@ -10,7 +10,7 @@ last_name: Pandit
 
 # Status emoji
 status:
-  icon: ☕️
+  
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,12 +19,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Aspiring Data Scientist / Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: San Diego State University
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -46,60 +46,59 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning 
+  - Deep Learning
+  - SQL
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: Masters in Big Data Analytics
     institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-08-21
+    date_end: 2025-05-01
+    GPA: 4.0/4.0
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Masters in Business Administration - Information Technology
+    institution:Tribhuvan University
+    date_start: 2019-03-01
+    date_end: 2021-04-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.73/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor in Computer Engineering
+    institution: Visvesvaraya Technological University
+    date_start: 2014-08-09
+    date_end: 2018-06-01
     summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Quality Assurance Engineer
+    company_name: FocusOne Payment Solutions
+    company_url: 'https://www.moco.com.np/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2021-07-01
+    date_end: '2022-06-01'
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Graduate Research Assistant
+    company_name: San Diego State University
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-01-01
+    date_end: 
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
