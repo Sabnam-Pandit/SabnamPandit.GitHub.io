@@ -37,7 +37,7 @@ sections:
       text: |-
          I'm working as a graduate  research assistant in the  DataSciene Lab Under Dr. Hajar Homoyouni. My research utilizes medical data  
  for anomaly detection ,fact extraction, similarity metric, interpretability of machine learning models by employing large language models.  
-        Please reach out to collaborate 😃
+  Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
