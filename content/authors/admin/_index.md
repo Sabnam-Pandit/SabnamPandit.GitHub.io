@@ -6,10 +6,6 @@ title: Sabnam
 first_name: Sabnam
 last_name: Pandit
 
-# Status emoji
-status:''
-  
-
 # Is this the primary user of the site?
 superuser: true
 
