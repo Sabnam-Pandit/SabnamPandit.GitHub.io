@@ -17,14 +17,14 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/Resume_2024.pdf
+        url: uploads/SabnamResume2024.pdf
     design:
       css_class: dark
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: stacked-peaks.png
           filters:
             brightness: 1.0
           size: cover
